@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 spatial-vector-lidar
 spatial-vector-lidar.zip
+gis_file
+*.asc
+*.prj
